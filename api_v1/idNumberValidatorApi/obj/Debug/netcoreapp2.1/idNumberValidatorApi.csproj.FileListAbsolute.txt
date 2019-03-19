@@ -1,0 +1,14 @@
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\bin\Debug\netcoreapp2.1\idNumberValidatorApi.deps.json
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\bin\Debug\netcoreapp2.1\idNumberValidatorApi.runtimeconfig.json
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\bin\Debug\netcoreapp2.1\idNumberValidatorApi.runtimeconfig.dev.json
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\bin\Debug\netcoreapp2.1\idNumberValidatorApi.dll
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\bin\Debug\netcoreapp2.1\idNumberValidatorApi.pdb
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.csprojAssemblyReference.cache
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.csproj.CoreCompileInputs.cache
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.RazorAssemblyInfo.cache
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.RazorAssemblyInfo.cs
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.AssemblyInfoInputs.cache
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.AssemblyInfo.cs
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.RazorTargetAssemblyInfo.cache
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.dll
+C:\Tshepo-Dev\Applications\RSAIdNumberValidator\api\idNumberValidatorApi\obj\Debug\netcoreapp2.1\idNumberValidatorApi.pdb
